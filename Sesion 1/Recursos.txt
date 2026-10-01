@@ -1,0 +1,9 @@
+*** 
+https://www.statlearning.com/
+
+An Introduction to Statistical Learning with Applications in Python. Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani. Springer. 2023. 
+
+***
+ISLRv2_corrected_June_2023
+ISLP_website
+
